@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+nav {
+	display: none;
+}
+
+.noPrint {
+	display: none; 
+}
+
+.pagebreakhere 
+{
+	page-break-before: always;
+}
+
+body {
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 15px;
+	color: black;
+	background: none;
+	margin: 0;
+	padding: 20px;
+	width: 1000px;
+	 
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.page p {
+	width: 500px;
+	margin: 5px;
+}
+
+.page {
+	width: 800px;
+	margin: 5px 20px 0 20px;
+	padding: 1px 25px 1px 25px;
+	border: 0 none #fff;
+	border-radius: none;
+}
+
+
+ul {
+	margin-left: -40px; 
+	list-style-type: none;
+}
+.center{
+	text-align: center;
+}
+
+h1 {
+	margin: 0;
+}
+
+h1 > p {
+	margin: 0;
+}

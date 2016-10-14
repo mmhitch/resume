@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+/* Layout Medium Screens */
+
+nav {
+   display: none;
+}
+
+
+
+body {
+    background: none;
+    background-image: none;
+    /* removes backround image for small devices */
+}
+
+#page {
+   background: #fff;
+   width: 700px;
+   padding: 2px 5px 2px 5px;
+   margin: 1px 2px 0px 2px;
+   border: none;
+   border-radius:none;
+}
+
+#page p {
+   
+   width: 750px;
+}
+.right {
+   float: right;
+}
+

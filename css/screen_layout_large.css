@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* Layout (global rules for all sizes) */
+
+body {
+    /*make sure that the page contaier can touch the top, left, and right sides of our window */
+    background: #c0c0c0;
+    margin: 0;
+    padding: 0;
+}
+
+#page {
+   background: #fff;
+   padding: 20px 70px 20px 70px;
+}

@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+   background: #c0c0c0;
+   
+}
+
+#page {
+   background: #fff;
+   /*width: 900px;*/
+   padding: 20px 90px 20px 90px;
+   margin: 10px 200px 0px 200px;
+   border: 2px double silver;
+   border-radius:5px;
+}
+
+.right {
+   float: right;
+}
